@@ -83,6 +83,7 @@ const App = () => {
               />
             </div> 
             {
+                
                     //NOTE: So this is supposed to be opposite. If movies.length > 0, render moviecard. 
                     //But that didn't work and when i reversed, it worked. No idea. 
                     //if movies length is > 0, reder moviecard
